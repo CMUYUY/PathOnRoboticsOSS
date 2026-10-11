@@ -94,7 +94,7 @@ If you use PathOn Robotics hardware or software in your work, please cite:
 
 ```bibtex
 @misc{zhang2026pathonrobotics,
-  author       = {Danqing Zhang},
+  author       = {Zhang, {Rex (Danqing)}},
   title        = {PathOn Robotics: Open-Source Robot Hardware and Software},
   year         = 2026,
   publisher    = {Zenodo},
