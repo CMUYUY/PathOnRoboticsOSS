@@ -93,12 +93,11 @@ See [lerobot_resources.md](lerobot_resources.md) for a curated list of open-sour
 If you use PathOn Robotics hardware or software in your work, please cite:
 
 ```bibtex
-@misc{zhang2026pathonrobotics,
-  author       = {Danqing Zhang},
-  title        = {PathOn Robotics: Open-Source Robot Hardware and Software},
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.23305306},
-  url          = {https://doi.org/10.5281/zenodo.23305306}
+@article{zhang2026pathonrobotics,
+  title={PathOn Robotics: Open-Source Robot Hardware and Software (2026). doi: 10.5281/zenodo.23305306},
+  author={Zhang, D},
+  journal={URL https://doi.org/10.5281/zenodo},
+  volume={23305306},
+  year={2026}
 }
 ```
