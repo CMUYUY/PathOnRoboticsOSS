@@ -5,6 +5,16 @@ type: software
 authors:
   - family-names: Zhang
     given-names: Danqing
+  - family-names: Parasuraman
+    given-names: Gowtham
+  - family-names: Chandramouli
+    given-names: Nishanth
+  - family-names: Zhang
+    given-names: Tiger
+  - family-names: Chen
+    given-names: Huanbin
+  - family-names: Wei
+    given-names: Nona
 doi: 10.5281/zenodo.23305306
 url: "https://github.com/PathOn-AI/PathOnRoboticsOSS"
 date-released: 2026-10-11

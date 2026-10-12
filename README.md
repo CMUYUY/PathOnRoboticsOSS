@@ -1,5 +1,6 @@
 # PathOn Robotics Open Source
 
+[![DOI](https://zenodo.org/badge/989271442.svg)](https://doi.org/10.5281/zenodo.23305306)
 [![discord-badge](https://dcbadge.limes.pink/api/server/xukJ3nh9wC)](https://discord.gg/xukJ3nh9wC)
 [![followers](https://custom-icon-badges.demolab.com/github/followers/PathOn-AI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/PathOn-AI?tab=followers)
 [![stars](https://custom-icon-badges.demolab.com/github/stars/PathOn-AI/PathOnRoboticsOSS?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/PathOn-AI/PathOnRoboticsOSS/stargazers)
@@ -95,7 +96,7 @@ If you use PathOn Robotics hardware or software in your work, please cite:
 ```bibtex
 @article{zhang2026pathon,
   title={PathOn Robotics: Open-Source Robot Hardware and Software (2026). doi: 10.5281/zenodo.23305306},
-  author={Zhang, Danqing},
+  author={Zhang, Danqing and Parasuraman, Gowtham and Chandramouli, Nishanth and Zhang, Tiger and Chen, Huanbin and Wei, Nona},
   journal={URL https://doi.org/10.5281/zenodo},
   volume={23305306},
   year={2026}
